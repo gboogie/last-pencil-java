@@ -33,6 +33,9 @@ public class Main {
                 System.out.println(nextPlayer + " won!");
             }
         }
+
+        // Clean up
+        scanner.close();
     }
 
     /**
