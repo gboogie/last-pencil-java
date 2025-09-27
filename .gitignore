@@ -1,0 +1,15 @@
+# Compiled output
+/out/
+/build/
+
+# Gradle
+.gradle
+/task/build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.idea/modules/**/build/
